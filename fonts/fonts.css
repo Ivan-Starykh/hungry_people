@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Banny;
+  src:
+    url(Banny-BoldRound.woff2) format('woff2'),
+    url(Banny-BoldRound.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src:
+    url(OpenSans-Regular.woff2) format('woff2'),
+    url(OpenSans-Regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src:
+    url(OpenSans-Bold.woff2) format('woff2'),
+    url(OpenSans-Bold.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
